@@ -1,0 +1,6 @@
+build/
+*.o
+*.a
+__pycache__/
+.pytest_cache/
+*.pyc
